@@ -21,4 +21,4 @@
 
 ## DEMO
 
-<img src="assets/img/demo.gif" alt="demo" width="640" height="480">
+<img src="assets/img/demo.gif" alt="demo" width="854" height="480">
