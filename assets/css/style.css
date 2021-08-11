@@ -136,19 +136,19 @@ footer ul li a img:hover {
   transform: scale(1.2);
 }
 
-.video {
+.video-box {
   display: flex;
   position: absolute;
   right: 0;
   bottom: 0;
   padding: 2% 4%;
 }
-.video iframe {
-  border-radius: 20px 0px 20px 20px;
-  border: 2px solid rgb(255, 255, 255);
+.video-box video {
+  border-radius: 20px 0px 20px 0px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
   transition: 0.5s all ease-in-out;
 }
-.video iframe:hover {
+.video-box video:hover {
   transform: scale(1.04);
 }
 /*------------------Background Slider------------------ */
