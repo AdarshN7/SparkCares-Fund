@@ -1,6 +1,5 @@
 # SparkCare's Fund
-### Website Link: <a href="https://adarshn7.github.io/SparkCares-Fund/" target="_blank">SparkCare's Fund </a>
-
+### Website Link: <a href="https://adarshn7.github.io/SparkCares-Fund/" target="_blank">SparkCare's Fund <img src="assets/img/demo.png" alt="demo" ></a>
 ## The Sparks Foundation
 ### Graduate Rotational Internship Program | GRIP AUGUST 2021 TASK
 
